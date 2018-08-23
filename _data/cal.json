@@ -1,0 +1,98 @@
+[
+  {
+    "date": "24-Aug-2017",
+    "topic": "Getting Started with Web Development",
+    "assigned": [{ text: "A1", link: "http://github.com/cs4241-17a/a1-gettingstarted" }],
+    "materials": "materials/thu-08-24.zip",
+    "vid": "https://youtu.be/9Vt2JPy69ao"
+  },
+  {
+    "date": "28-Aug-2017",
+    "topic": "HTML, CSS Part 1",
+    "materials": "materials/mon-08-28.zip",
+    "vid": "https://youtu.be/A4vPDGdg70Q"
+  },
+  {
+    "date": "31-Aug-2017",
+    "topic": "CSS Part 2",
+    "assigned": [{ text: "A2", link: "https://github.com/cs4241-17a/A2-TheBasics" }],
+    "due": "A1",
+    "vid": "https://youtu.be/PM3p3bJ-9F4"
+  },
+  {
+    "date": "04-Sep-2017",
+    "topic": "Labor Day (No Classes)"
+  },
+  {
+    "date": "07-Sep-2017",
+    "topic": "URLs, HTTP, Servers & Forms",
+    "assigned": [{ text: "A3", link: "https://github.com/cs4241-17a/A3-Filters" }],
+    "due": "A2",
+    "materials": "materials/thu-09-07.zip",
+    "vid": "https://youtu.be/-GnQN877OtA"
+  },
+  {
+    "date": "11-Sep-2017",
+    "topic": "Exam Review, Persistence",
+    "assigned": [{ text: "A4", link: "https://github.com/cs4241-17a/A4-Persistence" }],
+    "materials": "materials/mon-09-11.zip",
+    "vid": "http://www.youtube.com/watch?v=Chrr3AE5Aig"
+  },
+  {
+    "date": "14-Sep-2017",
+    "topic": "XMLHTTPRequests, Exam 1",
+    "assigned": [
+      { text: "Final Project", link: "https://github.com/cs4241-17a/final-project" }, 
+      { text: "Midpoint Survey", link: "https://goo.gl/forms/F4bQQPkzG1Suy5EJ2" }
+    ],
+    "due": "A3",
+    "vid": "https://youtu.be/ZjCiOEAm4Z4",
+    "materials": "materials/thu-09-14.zip"
+  },
+  {
+    "date": "18-Sep-2017",
+    "topic": "Server/API Activity",
+    "assigned": [{ text: "A5", link: "https://github.com/cs4241-17a/A5-AJAX" }],
+    "due": "A4"
+  },
+  {
+    "date": "21-Sep-2017",
+    "topic": "Exam 1 Recap, The DOM, Event Handling and JavaScript Events",
+    "due": "Final Project Proposal",
+    "vid": "https://www.youtube.com/watch?v=p5IUsg7ZImg",
+    "materials": "materials/thu-09-21.zip"
+  },
+  {
+    "date": "25-Sep-2017",
+    "topic": "Design and Evaluation",
+    "assigned": [{ text: "A6", link: "https://github.com/cs4241-17a/A6-Events" }],
+    "due": "A5",
+    "vid": "http://www.youtube.com/watch?v=qE0a2L_8W3w",
+    "materials": "materials/mon-09-25.zip"
+  },
+  {
+    "date": "28-Sep-2017",
+    "topic": "MVC, Exam 2 Review",
+    "assigned": [{ text: "A7", link: "https://github.com/cs4241-17a/A7-Sessions" }],
+    "materials": "materials/thu-09-28.zip",
+    "vid": "https://www.youtube.com/watch?v=ZtMRBNT1Vn4"
+  },
+  {
+    "date": "02-Oct-2017",
+    "topic": "Open Mic!; Exam 2: The DOM, Event Handling and JavaScript Events",
+    "due": "A6"
+  },
+  {
+    "date": "05-Oct-2017",
+    "topic": "Project Workday"
+  },
+  {
+    "date": "09-Oct-2017",
+    "topic": "Where to go from here: RESTful Services, Real-time, Sockets",
+    "due": "A7"
+  },
+  {
+    "date": "12-Oct-2017",
+    "topic": "Final Project Showcase @ Riley"
+  }
+]
