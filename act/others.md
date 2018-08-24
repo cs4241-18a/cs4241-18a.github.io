@@ -1,6 +1,5 @@
 ---
 layout: page
-title: others
 ---
 
 # cs4241-17a css challenge: Design for Others

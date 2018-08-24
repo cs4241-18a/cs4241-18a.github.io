@@ -1,6 +1,5 @@
 ---
 layout: page
-title: servers
 ---
 
 # cs4241-17a server / front-end challenge: "API" Design and Use

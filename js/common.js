@@ -1,4 +1,4 @@
-var repoPath = "https://github.com/cs4241-17a/cs4241-17a.github.io/";
+var repoPath = "https://github.com/cs4241-18a/cs4241-18a.github.io/";
 
 function getThisPath()
 {

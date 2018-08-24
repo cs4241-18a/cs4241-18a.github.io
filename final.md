@@ -4,14 +4,12 @@ title: final
 ---
 
 Details:<br>
-October 12<br>
-Riley Hall<br>
+Thu Oct 11<br>
+TBD<br>
 12p - 2p
 
 Food Types:<br>
-Coffee<br>
-Breakfast sandwiches<br>
-Assorted pastries<br>
+TBD: either breakfast or lunch
 
 ## fundraising
 
@@ -19,17 +17,12 @@ Note: we are shooting for $750<br>
 Food cost per student is ~$10.<br>
 Typical contributions range from $5-$20.<br>
 
-(24-Sep-2017 as shown in the graph below, I've kicked us off with $100.)
-
 - [venmo @laneharrison](https://venmo.com/laneharrison)
 - [square cash @laneharrison](https://cash.me/$laneharrison)
 
+graphs put the fun in fundraising:
+
 <svg id="fuv" width="768" height="500"></svg>
-
-## poll on whether we do catering or not
-
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BS93EVTQQHJ0MH9MCFM9BB4G/Yes%3A%20food%20please%20and%20I%20can%20contribute%20%24)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BS93EVTQQHJ0MH9MCFM9BB4G/Yes%3A%20food%20please%20and%20I%20can%20contribute%20%24/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BS93EVTQQHJ0MH9MCFM9BB4G/No%3A%20food%20not%20necessary)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BS93EVTQQHJ0MH9MCFM9BB4G/No%3A%20food%20not%20necessary/vote)
 
 <script>
 var svg = d3.select("#fuv"),
@@ -58,7 +51,7 @@ d3.tsv("funds.tsv", function(d) {
   if (error) throw error;
 
 //  x.domain(d3.extent(data, function(d) { return d.date; }));
-  x.domain([parseTime('24-Sep-17'), parseTime('10-Oct-17')]);
+  x.domain([parseTime('23-Aug-18'), parseTime('10-Oct-18')]);
 //  y.domain(d3.extent(data, function(d) { return d.close; }));
   y.domain([0, 750]);
 

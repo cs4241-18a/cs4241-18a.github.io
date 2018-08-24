@@ -54,7 +54,7 @@ title: home
 
 Webware (CS-4241)
 
-Term A -- 2017
+A Term -- 2018
 
 Location<br>
 Fuller Lower<br>
@@ -62,6 +62,6 @@ M/R 12:00-1:50pm
 
 ### Announcements
 
-- wed-08-30: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack).
+- thu-08-23: New? [Check out init](/init/) to get started.
 
-- thu-08-24: New? [Check out init](/init/) to get started.
+- thu-08-23: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack).
