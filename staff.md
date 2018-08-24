@@ -6,7 +6,7 @@ permalink: /staff/
 
 # Staff
 Staff Email  
-cs4241-staff@cs.wpi.edu
+[cs4241-staff@cs.wpi.edu](mailto:cs4241-staff@cs.wpi.edu)
 
 Instructor  
 [Lane Harrison](http://web.cs.wpi.edu/~ltharrison/) <- see my website for office hours  
@@ -15,10 +15,10 @@ Instructor
 
 TAs   
 Anqi Lu  
-Email: alu@wpi.edu   
+Email: [alu@wpi.edu](mailto:alu@wpi.edu)   
 office hours TBD
 
 Erden Oktay  
-Email: eoktay@wpi.edu  
+Email: [eoktay@wpi.edu](mailto:eoktay@wpi.edu)  
 office hours TBD  
 
