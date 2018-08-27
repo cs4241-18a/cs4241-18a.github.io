@@ -16,7 +16,7 @@ Instructor
 TAs   
 Anqi Lu  
 Email: [alu@wpi.edu](mailto:alu@wpi.edu)   
-office hours TBD
+office hours: Mondays 3 - 5pm, FLA22
 
 Erden Oktay  
 Email: [eoktay@wpi.edu](mailto:eoktay@wpi.edu)  

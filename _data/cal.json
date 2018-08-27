@@ -8,13 +8,13 @@
   },
   {
     "date": "27-Aug-2018",
-    "topic": "HTML, CSS Part 1",
-    "materials": "",
+    "topic": "HTML, CSS",
+    "materials": "materials/mon-08-27.zip",
     "vid": ""
   },
   {
     "date": "30-Aug-2018",
-    "topic": "HTML, CSS Part 2",
+    "topic": "URLs, HTTP, Servers & Forms",
     "due": "A1",
     "assigned": [{ text: "A2", link: "" }],
     "vid": ""
@@ -25,7 +25,7 @@
   },
   {
     "date": "06-Sep-2018",
-    "topic": "URLs, HTTP, Servers & Forms",
+    "topic": "XMLHTTPRequests",
     "due": "A2",
     "assigned": [{ text: "A3", link: "" }],
     "materials": "",
@@ -39,7 +39,7 @@
   },
   {
     "date": "13-Sep-2018",
-    "topic": "XMLHTTPRequests",
+    "topic": "TBA",
     "assigned": [
       { text: "A4", link: "" },
       { text: "Final Project", link: "" }
