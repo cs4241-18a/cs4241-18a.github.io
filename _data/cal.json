@@ -16,7 +16,8 @@
     "date": "30-Aug-2018",
     "topic": "URLs, HTTP, Servers & Forms",
     "due": "A1",
-    "assigned": [{ text: "A2", link: "" }],
+    "assigned": [{ text: "A2", link: "https://github.com/cs4241-18a/a2-shortstack" }],
+    "materials": "materials/thu-08-30.zip",
     "vid": ""
   },
   {
