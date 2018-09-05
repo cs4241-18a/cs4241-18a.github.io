@@ -20,5 +20,5 @@ office hours: Mondays 3 - 5pm, FLA22
 
 Erden Oktay  
 Email: [eoktay@wpi.edu](mailto:eoktay@wpi.edu)  
-office hours TBD  
+office hours: Tuesdays 3 - 5pm, FLA22  
 
