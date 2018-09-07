@@ -62,6 +62,8 @@ M/R 12:00-1:50pm
 
 ### Announcements
 
+- fri-09-07: Submit your team names using [This Google Sheet](https://docs.google.com/spreadsheets/d/1fXnPHFWVngKY-hvucU80kqk4PfYpFATIaCM1idDWSu0/edit?usp=sharing)
+
 - thu-08-23: New? [Check out init](/init/) to get started.
 
 - thu-08-23: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack).
