@@ -40,22 +40,22 @@
   },
   {
     "date": "13-Sep-2018",
-    "topic": "TBA",
+    "topic": "Event Handling and JavaScript Events",
     "vid": "",
     "materials": ""
   },
   {
     "date": "17-Sep-2018",
-    "topic": "Server/APIs",
+    "topic": "The DOM and DOM Manipulation",
     "assigned": [
       { text: "A4", link: "" },
       { text: "Final Project", link: "" }
-    ],
-    "due": "A3"
+    ]  
   },
   {
     "date": "20-Sep-2018",
-    "topic": "The DOM, Event Handling, and JavaScript Events",
+    "topic": "Server/APIs",
+    "due": "A3",
     "vid": "",
     "materials": ""
   },
