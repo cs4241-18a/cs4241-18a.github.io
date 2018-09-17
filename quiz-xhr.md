@@ -4,7 +4,7 @@ title: xhr-study
 permalink: /quiz-xhr/
 ---
 
-XHR Quiz Study Guide | mon-09-17
+Quiz next Monday
 
 - Status Codes (200, 404, etc.)
 - send() and onReadyStateChange(…) behavior
