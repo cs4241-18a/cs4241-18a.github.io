@@ -1,6 +1,7 @@
 ---
 layout: page
-title: xhr quiz study guide
+title: xhr-study
+permalink: /quiz-xhr/
 ---
 
 XHR Quiz Study Guide | mon-09-17
