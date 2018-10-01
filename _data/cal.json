@@ -27,7 +27,7 @@
   {
     "date": "06-Sep-2018",
     "topic": "XMLHTTPRequests",
-    "assigned": [{ text: "A3", link: "" }],
+    "assigned": [{ text: "A3", link: "https://github.com/cs4241-18a/a3-fullstack" }],
     "materials": "",
     "vid": ""
   },
@@ -46,35 +46,32 @@
   },
   {
     "date": "17-Sep-2018",
-    "topic": "The DOM and DOM Manipulation",
-    "assigned": [
-      { text: "A4", link: "" },
-      { text: "Final Project", link: "" }
-    ]  
+    "topic": "The DOM and DOM Manipulation"
   },
   {
     "date": "20-Sep-2018",
-    "topic": "Server/APIs",
+    "topic": "Open Mic -> Share a Framework/Concept/Webapp with the Class",
     "due": "A3",
-    "vid": "",
-    "materials": ""
+    "assigned": [
+      { text: "A4", link: "https://github.com/cs4241-18a/a4-webapp" },
+      { text: "Final Project", link: "https://github.com/cs4241-18a/fp" }
+    ]  
   },
   {
     "date": "24-Sep-2018",
-    "topic": "Design and Evaluation",
-    "vid": "",
-    "materials": ""
+    "topic": "Careers in Webware"
   },
   {
     "date": "27-Sep-2018",
-    "topic": "MVC",
-    "due": "A4",    
-    "materials": "",
-    "vid": ""
+    "topic": "REST, Sessions, Templates"
   },
   {
     "date": "01-Oct-2018",
-    "topic": "RESTful Services, Real-time, Sockets",
+    "topic": "MVC, Real-time, Sockets"
+  },
+  {
+    "date": "03-Oct-2018",
+    "due": "A4"
   },
   {
     "date": "04-Oct-2018",
@@ -82,7 +79,7 @@
   },
   {
     "date": "08-Oct-2018",
-    "topic": "Where to go from here",
+    "topic": "Where to go from here"
   },
   {
     "date": "11-Oct-2018",

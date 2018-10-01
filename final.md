@@ -5,11 +5,11 @@ title: final
 
 Details:<br>
 Thu Oct 11<br>
-TBD<br>
+Riley Hall<br>
 12p - 2p
 
 Food Types:<br>
-TBD: either breakfast or lunch
+lunch!
 
 ## fundraising
 
